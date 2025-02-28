@@ -1,0 +1,66 @@
+2025-02-28 20:14:57,063: Special key Key.backspace pressed
+2025-02-28 20:14:58,902: Key r pressed
+2025-02-28 20:14:59,050: Key o pressed
+2025-02-28 20:14:59,236: Key m pressed
+2025-02-28 20:14:59,455: Special key Key.space pressed
+2025-02-28 20:15:04,291: Key p pressed
+2025-02-28 20:15:05,424: Key y pressed
+2025-02-28 20:15:05,652: Key i pressed
+2025-02-28 20:15:05,842: Key n pressed
+2025-02-28 20:15:06,079: Key p pressed
+2025-02-28 20:15:06,360: Key u pressed
+2025-02-28 20:15:06,522: Key t pressed
+2025-02-28 20:15:18,398: Special key Key.right pressed
+2025-02-28 20:15:18,778: Special key Key.left pressed
+2025-02-28 20:15:19,200: Special key Key.left pressed
+2025-02-28 20:15:19,340: Special key Key.left pressed
+2025-02-28 20:15:19,484: Special key Key.left pressed
+2025-02-28 20:15:19,650: Special key Key.left pressed
+2025-02-28 20:15:20,796: Special key Key.backspace pressed
+2025-02-28 20:15:21,244: Special key Key.right pressed
+2025-02-28 20:15:22,055: Special key Key.right pressed
+2025-02-28 20:15:22,272: Special key Key.right pressed
+2025-02-28 20:15:22,488: Special key Key.right pressed
+2025-02-28 20:15:22,862: Special key Key.space pressed
+2025-02-28 20:15:30,604: Key i pressed
+2025-02-28 20:15:30,773: Key m pressed
+2025-02-28 20:15:30,989: Key p pressed
+2025-02-28 20:15:31,180: Key o pressed
+2025-02-28 20:15:31,437: Key r pressed
+2025-02-28 20:15:31,575: Key t pressed
+2025-02-28 20:15:31,720: Special key Key.space pressed
+2025-02-28 20:15:32,003: Key k pressed
+2025-02-28 20:15:32,190: Key e pressed
+2025-02-28 20:15:33,305: Key y pressed
+2025-02-28 20:15:33,534: Key b pressed
+2025-02-28 20:15:33,921: Key o pressed
+2025-02-28 20:15:34,072: Key a pressed
+2025-02-28 20:15:34,310: Key r pressed
+2025-02-28 20:15:34,472: Key d pressed
+2025-02-28 20:15:35,555: Special key Key.tab pressed
+2025-02-28 20:15:59,394: Key k pressed
+2025-02-28 20:15:59,477: Key a pressed
+2025-02-28 20:15:59,486: Key j pressed
+2025-02-28 20:15:59,633: Key s pressed
+2025-02-28 20:15:59,692: Key k pressed
+2025-02-28 20:15:59,786: Key j pressed
+2025-02-28 20:15:59,843: Key b pressed
+2025-02-28 20:16:00,324: Key k pressed
+2025-02-28 20:16:00,481: Key b pressed
+2025-02-28 20:16:00,622: Key k pressed
+2025-02-28 20:16:00,778: Key b pressed
+2025-02-28 20:16:15,413: Key h pressed
+2025-02-28 20:16:15,528: Key k pressed
+2025-02-28 20:16:15,708: Key a pressed
+2025-02-28 20:16:15,712: Key h pressed
+2025-02-28 20:16:15,733: Key b pressed
+2025-02-28 20:16:15,851: Key k pressed
+2025-02-28 20:16:15,993: Key b pressed
+2025-02-28 20:16:16,154: Key h pressed
+2025-02-28 20:16:16,240: Key b pressed
+2025-02-28 20:16:16,280: Key s pressed
+2025-02-28 20:16:16,425: Key d pressed
+2025-02-28 20:16:16,442: Key h pressed
+2025-02-28 20:16:16,528: Key b pressed
+2025-02-28 20:16:16,562: Key c pressed
+2025-02-28 20:16:17,893: Special key Key.enter pressed
